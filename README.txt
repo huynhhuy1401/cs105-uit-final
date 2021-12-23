@@ -8,6 +8,8 @@ Link: https://code.visualstudio.com/download
 
 2.Cài đặt Live Sever extension
 
-3.Chọn file index.html và nhấn “Go Live” ở phía dưới góc phải màn hình để chạy web
+3. Mở thư mục source-code bằng Visual Studio Code
 
-Cách 2: Truy cập trực tiếp tại https://huynhhuy1401.github.io/threejs-uit/
+4. Chọn file index.html và nhấn “Go Live” ở phía dưới góc phải màn hình để chạy web
+
+Cách 2: Truy cập trực tiếp tại https://huynhhuy1401.github.io/cs105-uit-final/
